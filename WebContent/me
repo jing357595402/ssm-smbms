@@ -1,0 +1,12 @@
+项目简介：超市管理系统
+使用须知：
+1、修改database.properties中的配置
+	url中的数据库名
+	数据库用户名
+	数据库密码
+2、执行WebContent下的sql文件创建数据库
+smbms.sql
+3、登录用户名密码
+用户名：admin
+密码：1234567
+
